@@ -1,0 +1,30 @@
+import json
+
+class Person(object):
+    def __init__(self,name,age,email):
+        self.name = name
+        self.age = age
+        self.email = email
+
+class Student(Person):
+    def __init__(self,name,age,email,studentid):
+        super().__init__(name, age, email)
+        self.studentid = studentid
+
+    def to_dict(self): #had to ask evil sentient computer about this, tried for a while to do without this function but kept erroring with "non serializable data"
+        return {
+            self.name : 'name',
+            self.age : 'age',
+            self.email : 'email',
+            self.studentid : 'studentid'
+        }
+
+student = Student('Grace', 23,'gebrisco@cpp.edu', 123456789)
+
+filename = 'student.json'
+with open('student.json', 'w') as f:
+    json.dump(student.to_dict(), f, indent=4)
+
+with open('student.json') as f:
+    data_classes = json.load(f)
+    print (json.dumps(data_classes, indent=2))
