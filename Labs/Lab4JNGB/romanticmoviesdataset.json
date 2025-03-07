@@ -1,0 +1,302 @@
+[
+  {
+    "title": "The Notebook",
+    "year_of_release": "2004",
+    "rating_score": "7.8",
+    "box_office_amount": "115.6"
+  },
+  {
+    "title": "P.S. I Love You",
+    "year_of_release": "2007",
+    "rating_score": "7.0",
+    "box_office_amount": "156.8"
+  },
+  {
+    "title": "Titanic",
+    "year_of_release": "1997",
+    "rating_score": "7.8",
+    "box_office_amount": "2187.5"
+  },
+  {
+    "title": "A Walk to Remember",
+    "year_of_release": "2002",
+    "rating_score": "7.3",
+    "box_office_amount": "47.5"
+  },
+  {
+    "title": "La La Land",
+    "year_of_release": "2016",
+    "rating_score": "8.0",
+    "box_office_amount": "446.1"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "year_of_release": "2005",
+    "rating_score": "7.8",
+    "box_office_amount": "121.6"
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year_of_release": "2018",
+    "rating_score": "7.0",
+    "box_office_amount": "238.5"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "year_of_release": "2014",
+    "rating_score": "7.7",
+    "box_office_amount": "307.2"
+  },
+  {
+    "title": "Me Before You",
+    "year_of_release": "2016",
+    "rating_score": "7.4",
+    "box_office_amount": "208.3"
+  },
+  {
+    "title": "The Vow",
+    "year_of_release": "2012",
+    "rating_score": "6.8",
+    "box_office_amount": "196.1"
+  },
+  {
+    "title": "Love Actually",
+    "year_of_release": "2003",
+    "rating_score": "7.6",
+    "box_office_amount": "246.9"
+  },
+  {
+    "title": "Notting Hill",
+    "year_of_release": "1999",
+    "rating_score": "7.1",
+    "box_office_amount": "364.0"
+  },
+  {
+    "title": "Pretty Woman",
+    "year_of_release": "1990",
+    "rating_score": "7.1",
+    "box_office_amount": "463.4"
+  },
+  {
+    "title": "When Harry Met Sally",
+    "year_of_release": "1989",
+    "rating_score": "7.6",
+    "box_office_amount": "92.8"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year_of_release": "1999",
+    "rating_score": "7.3",
+    "box_office_amount": "53.5"
+  },
+  {
+    "title": "The Princess Bride",
+    "year_of_release": "1987",
+    "rating_score": "8.1",
+    "box_office_amount": "30.9"
+  },
+  {
+    "title": "Sleepless in Seattle",
+    "year_of_release": "1993",
+    "rating_score": "6.8",
+    "box_office_amount": "227.8"
+  },
+  {
+    "title": "You've Got Mail",
+    "year_of_release": "1998",
+    "rating_score": "6.7",
+    "box_office_amount": "250.8"
+  },
+  {
+    "title": "The Holiday",
+    "year_of_release": "2006",
+    "rating_score": "6.9",
+    "box_office_amount": "205.1"
+  },
+  {
+    "title": "To All the Boys I've Loved Before",
+    "year_of_release": "2018",
+    "rating_score": "7.1",
+    "box_office_amount": "0.0"
+  },
+  {
+    "title": "The Shape of Water",
+    "year_of_release": "2017",
+    "rating_score": "7.3",
+    "box_office_amount": "195.2"
+  },
+  {
+    "title": "Call Me by Your Name",
+    "year_of_release": "2017",
+    "rating_score": "7.9",
+    "box_office_amount": "41.9"
+  },
+  {
+    "title": "The Big Sick",
+    "year_of_release": "2017",
+    "rating_score": "7.5",
+    "box_office_amount": "56.4"
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "year_of_release": "2012",
+    "rating_score": "7.7",
+    "box_office_amount": "236.4"
+  },
+  {
+    "title": "Her",
+    "year_of_release": "2013",
+    "rating_score": "8.0",
+    "box_office_amount": "48.3"
+  },
+  {
+    "title": "500 Days of Summer",
+    "year_of_release": "2009",
+    "rating_score": "7.7",
+    "box_office_amount": "60.7"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year_of_release": "2004",
+    "rating_score": "8.3",
+    "box_office_amount": "74.0"
+  },
+  {
+    "title": "Before Sunrise",
+    "year_of_release": "1995",
+    "rating_score": "8.1",
+    "box_office_amount": "5.5"
+  },
+  {
+    "title": "Before Sunset",
+    "year_of_release": "2004",
+    "rating_score": "8.1",
+    "box_office_amount": "15.8"
+  },
+  {
+    "title": "Before Midnight",
+    "year_of_release": "2013",
+    "rating_score": "7.9",
+    "box_office_amount": "23.3"
+  },
+  {
+    "title": "The Spectacular Now",
+    "year_of_release": "2013",
+    "rating_score": "7.1",
+    "box_office_amount": "6.9"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "year_of_release": "2012",
+    "rating_score": "8.0",
+    "box_office_amount": "33.4"
+  },
+  {
+    "title": "The Best of Me",
+    "year_of_release": "2014",
+    "rating_score": "6.7",
+    "box_office_amount": "35.9"
+  },
+  {
+    "title": "Dear John",
+    "year_of_release": "2010",
+    "rating_score": "6.3",
+    "box_office_amount": "114.9"
+  },
+  {
+    "title": "The Lucky One",
+    "year_of_release": "2012",
+    "rating_score": "6.5",
+    "box_office_amount": "99.4"
+  },
+  {
+    "title": "Safe Haven",
+    "year_of_release": "2013",
+    "rating_score": "6.7",
+    "box_office_amount": "97.6"
+  },
+  {
+    "title": "The Longest Ride",
+    "year_of_release": "2015",
+    "rating_score": "7.1",
+    "box_office_amount": "63.0"
+  },
+  {
+    "title": "The Choice",
+    "year_of_release": "2016",
+    "rating_score": "6.6",
+    "box_office_amount": "23.4"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "year_of_release": "2009",
+    "rating_score": "7.1",
+    "box_office_amount": "101.3"
+  },
+  {
+    "title": "About Time",
+    "year_of_release": "2013",
+    "rating_score": "7.8",
+    "box_office_amount": "87.1"
+  },
+  {
+    "title": "The Age of Adaline",
+    "year_of_release": "2015",
+    "rating_score": "7.2",
+    "box_office_amount": "65.7"
+  },
+  {
+    "title": "The Great Gatsby",
+    "year_of_release": "2013",
+    "rating_score": "7.2",
+    "box_office_amount": "353.6"
+  },
+  {
+    "title": "The Proposal",
+    "year_of_release": "2009",
+    "rating_score": "6.7",
+    "box_office_amount": "317.4"
+  },
+  {
+    "title": "The Spectacular Now",
+    "year_of_release": "2013",
+    "rating_score": "7.1",
+    "box_office_amount": "6.9"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "year_of_release": "2012",
+    "rating_score": "8.0",
+    "box_office_amount": "33.4"
+  },
+  {
+    "title": "The Best of Me",
+    "year_of_release": "2014",
+    "rating_score": "6.7",
+    "box_office_amount": "35.9"
+  },
+  {
+    "title": "Dear John",
+    "year_of_release": "2010",
+    "rating_score": "6.3",
+    "box_office_amount": "114.9"
+  },
+  {
+    "title": "The Lucky One",
+    "year_of_release": "2012",
+    "rating_score": "6.5",
+    "box_office_amount": "99.4"
+  },
+  {
+    "title": "Safe Haven",
+    "year_of_release": "2013",
+    "rating_score": "6.7",
+    "box_office_amount": "97.6"
+  },
+  {
+    "title": "The Longest Ride",
+    "year_of_release": "2015",
+    "rating_score": "7.1",
+    "box_office_amount": "63.0"
+  }
+]
