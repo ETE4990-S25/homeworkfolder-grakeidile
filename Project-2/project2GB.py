@@ -16,8 +16,8 @@ def is_prime(n): #your function
             return False
     return True
 
-def highest_prime_threading(shared_prime): #Im not gonna lie, i tried to do this my own way without the shared, then the evil ai told me to used this shared prime and it worked. I know why now, just didnt think of it
-    start_time = time.time()
+def highest_prime_threading(shared_prime): #Im not gonna lie, i tried to do this my own way without the shared, then the evil ai told me to used this shared prime and it worked (kinda)
+    start_time = time.time()               #Its only putting out a number sometimes so I will be back on this to fix it in the next day or so
     number = 0
     while time.time() - start_time < 180:
         if is_prime(number):
@@ -33,7 +33,7 @@ def highest_prime_mp(shared_prime):
         number += 1
         
 def main():
-    highest_prime_threading_value = [0]
+    highest_prime_threading_value = [0] #clearly the shared isnt working tho bc why the heck would they share a value when they are two different processes
 
     thread = threading.Thread(target= highest_prime, args=(highest_prime_threading,))
     thread.start()
@@ -52,5 +52,5 @@ def main():
 if __name__ == "__main__":
     main()
 #yes i know it doesnt run well at all
-#i have spent hours on this and pride myself on not using chatgpt as much as i can so I will go back at it in the morning
-#apologies again
+#i have spent hours on this, I was working with the homies on it but I wanted to see if there were other ways to do it without totally ripping off of theirs like a freeloader
+#apologies again, it will be done
