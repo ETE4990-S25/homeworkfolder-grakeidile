@@ -57,4 +57,4 @@ if __name__ == "__main__":
 #yes i know it doesnt run well at all
 #I used chatgpt and the homies codes as references but im still having trouble. Its timing fine, just not calculating
 #tbh im trying to get my meds approved so I dont go into a flare and im mega stressed out so I will get back to this soon again
-#sorry
+#sorry again
