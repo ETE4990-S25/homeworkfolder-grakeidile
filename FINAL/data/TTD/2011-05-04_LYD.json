@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.302169 LYD",
+    "link": "http://www.floatrates.com/ttd/lyd/",
+    "description": "1 Trinidad Tobago Dollar = 0.302169 Libyan Dinar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "LYD",
+    "targetName": "Libyan Dinar",
+    "exchangeRate": "0.302169",
+    "inverseRate": "3.309408",
+    "inverseDescription": "1 Libyan Dinar = 3.309408 Trinidad Tobago Dollar"
+}

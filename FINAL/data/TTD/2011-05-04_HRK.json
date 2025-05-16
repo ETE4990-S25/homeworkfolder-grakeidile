@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.775597 HRK",
+    "link": "http://www.floatrates.com/ttd/hrk/",
+    "description": "1 Trinidad Tobago Dollar = 0.775597 Croatian Kuna",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "HRK",
+    "targetName": "Croatian Kuna",
+    "exchangeRate": "0.775597",
+    "inverseRate": "1.289330",
+    "inverseDescription": "1 Croatian Kuna = 1.289330 Trinidad Tobago Dollar"
+}

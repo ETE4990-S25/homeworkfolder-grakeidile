@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 13.183297 PKR",
+    "link": "http://www.floatrates.com/ttd/pkr/",
+    "description": "1 Trinidad Tobago Dollar = 13.183297 Pakistani Rupee",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "PKR",
+    "targetName": "Pakistani Rupee",
+    "exchangeRate": "13.183297",
+    "inverseRate": "0.075854",
+    "inverseDescription": "1 Pakistani Rupee = 0.075854 Trinidad Tobago Dollar"
+}

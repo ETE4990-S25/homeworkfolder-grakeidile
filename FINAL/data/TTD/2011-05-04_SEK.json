@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.944975 SEK",
+    "link": "http://www.floatrates.com/ttd/sek/",
+    "description": "1 Trinidad Tobago Dollar = 0.944975 Swedish Krona",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "SEK",
+    "targetName": "Swedish Krona",
+    "exchangeRate": "0.944975",
+    "inverseRate": "1.058229",
+    "inverseDescription": "1 Swedish Krona = 1.058229 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.196263 NZD",
+    "link": "http://www.floatrates.com/ttd/nzd/",
+    "description": "1 Trinidad Tobago Dollar = 0.196263 New Zealand Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "NZD",
+    "targetName": "New Zealand Dollar",
+    "exchangeRate": "0.196263",
+    "inverseRate": "5.095197",
+    "inverseDescription": "1 New Zealand Dollar = 5.095197 Trinidad Tobago Dollar"
+}

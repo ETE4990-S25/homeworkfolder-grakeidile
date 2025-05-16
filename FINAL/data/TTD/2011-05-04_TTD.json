@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 1.000000 TTD",
+    "link": "http://www.floatrates.com/ttd/ttd/",
+    "description": "1 Trinidad Tobago Dollar = 1.000000 Trinidad Tobago Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "TTD",
+    "targetName": "Trinidad Tobago Dollar",
+    "exchangeRate": "1.000000",
+    "inverseRate": "1.000000",
+    "inverseDescription": "1 Trinidad Tobago Dollar = 1.000000 Trinidad Tobago Dollar"
+}

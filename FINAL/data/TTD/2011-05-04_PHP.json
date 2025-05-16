@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 6.710386 PHP",
+    "link": "http://www.floatrates.com/ttd/php/",
+    "description": "1 Trinidad Tobago Dollar = 6.710386 Philippine Peso",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "PHP",
+    "targetName": "Philippine Peso",
+    "exchangeRate": "6.710386",
+    "inverseRate": "0.149023",
+    "inverseDescription": "1 Philippine Peso = 0.149023 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.149515 CAD",
+    "link": "http://www.floatrates.com/ttd/cad/",
+    "description": "1 Trinidad Tobago Dollar = 0.149515 Canadian Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "CAD",
+    "targetName": "Canadian Dollar",
+    "exchangeRate": "0.149515",
+    "inverseRate": "6.688286",
+    "inverseDescription": "1 Canadian Dollar = 6.688286 Trinidad Tobago Dollar"
+}

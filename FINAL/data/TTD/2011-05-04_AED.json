@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.574268 AED",
+    "link": "http://www.floatrates.com/ttd/aed/",
+    "description": "1 Trinidad Tobago Dollar = 0.574268 U.A.E Dirham",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "AED",
+    "targetName": "U.A.E Dirham",
+    "exchangeRate": "0.574268",
+    "inverseRate": "1.741348",
+    "inverseDescription": "1 U.A.E Dirham = 1.741348 Trinidad Tobago Dollar"
+}

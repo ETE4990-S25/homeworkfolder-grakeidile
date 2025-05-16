@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.240376 TRY",
+    "link": "http://www.floatrates.com/ttd/try/",
+    "description": "1 Trinidad Tobago Dollar = 0.240376 Turkish Lira",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "TRY",
+    "targetName": "Turkish Lira",
+    "exchangeRate": "0.240376",
+    "inverseRate": "4.160156",
+    "inverseDescription": "1 Turkish Lira = 4.160156 Trinidad Tobago Dollar"
+}

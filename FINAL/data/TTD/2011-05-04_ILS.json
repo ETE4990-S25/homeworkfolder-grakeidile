@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.530530 ILS",
+    "link": "http://www.floatrates.com/ttd/ils/",
+    "description": "1 Trinidad Tobago Dollar = 0.530530 Israeli New Sheqel",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "ILS",
+    "targetName": "Israeli New Sheqel",
+    "exchangeRate": "0.530530",
+    "inverseRate": "1.884909",
+    "inverseDescription": "1 Israeli New Sheqel = 1.884909 Trinidad Tobago Dollar"
+}

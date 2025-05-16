@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.156370 USD",
+    "link": "http://www.floatrates.com/ttd/usd/",
+    "description": "1 Trinidad Tobago Dollar = 0.156370 U.S. Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "USD",
+    "targetName": "U.S. Dollar",
+    "exchangeRate": "0.156370",
+    "inverseRate": "6.395100",
+    "inverseDescription": "1 U.S. Dollar = 6.395100 Trinidad Tobago Dollar"
+}

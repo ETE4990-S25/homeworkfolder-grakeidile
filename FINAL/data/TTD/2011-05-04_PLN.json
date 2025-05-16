@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.414120 PLN",
+    "link": "http://www.floatrates.com/ttd/pln/",
+    "description": "1 Trinidad Tobago Dollar = 0.414120 Polish Zloty",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "PLN",
+    "targetName": "Polish Zloty",
+    "exchangeRate": "0.414120",
+    "inverseRate": "2.414761",
+    "inverseDescription": "1 Polish Zloty = 2.414761 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.247752 BRL",
+    "link": "http://www.floatrates.com/ttd/brl/",
+    "description": "1 Trinidad Tobago Dollar = 0.247752 Brazilian Real",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "BRL",
+    "targetName": "Brazilian Real",
+    "exchangeRate": "0.247752",
+    "inverseRate": "4.036298",
+    "inverseDescription": "1 Brazilian Real = 4.036298 Trinidad Tobago Dollar"
+}

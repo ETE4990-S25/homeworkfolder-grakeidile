@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 4.272503 RUB",
+    "link": "http://www.floatrates.com/ttd/rub/",
+    "description": "1 Trinidad Tobago Dollar = 4.272503 Russian Rouble",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "RUB",
+    "targetName": "Russian Rouble",
+    "exchangeRate": "4.272503",
+    "inverseRate": "0.234055",
+    "inverseDescription": "1 Russian Rouble = 0.234055 Trinidad Tobago Dollar"
+}

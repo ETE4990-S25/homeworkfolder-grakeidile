@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 1.809085 MXN",
+    "link": "http://www.floatrates.com/ttd/mxn/",
+    "description": "1 Trinidad Tobago Dollar = 1.809085 Mexican Peso",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "MXN",
+    "targetName": "Mexican Peso",
+    "exchangeRate": "1.809085",
+    "inverseRate": "0.552766",
+    "inverseDescription": "1 Mexican Peso = 0.552766 Trinidad Tobago Dollar"
+}

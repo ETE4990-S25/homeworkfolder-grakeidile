@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 17.418023 ISK",
+    "link": "http://www.floatrates.com/ttd/isk/",
+    "description": "1 Trinidad Tobago Dollar = 17.418023 Icelandic Krona",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "ISK",
+    "targetName": "Icelandic Krona",
+    "exchangeRate": "17.418023",
+    "inverseRate": "0.057412",
+    "inverseDescription": "1 Icelandic Krona = 0.057412 Trinidad Tobago Dollar"
+}

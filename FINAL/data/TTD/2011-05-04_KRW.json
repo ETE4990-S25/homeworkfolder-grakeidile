@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 167.480260 KRW",
+    "link": "http://www.floatrates.com/ttd/krw/",
+    "description": "1 Trinidad Tobago Dollar = 167.480260 South Korean Won",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "KRW",
+    "targetName": "South Korean Won",
+    "exchangeRate": "167.480260",
+    "inverseRate": "0.005971",
+    "inverseDescription": "1 South Korean Won = 0.005971 Trinidad Tobago Dollar"
+}

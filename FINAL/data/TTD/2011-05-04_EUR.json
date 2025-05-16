@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.105073 EUR",
+    "link": "http://www.floatrates.com/ttd/eur/",
+    "description": "1 Trinidad Tobago Dollar = 0.105073 Euro",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "EUR",
+    "targetName": "Euro",
+    "exchangeRate": "0.105073",
+    "inverseRate": "9.517188",
+    "inverseDescription": "1 Euro = 9.517188 Trinidad Tobago Dollar"
+}

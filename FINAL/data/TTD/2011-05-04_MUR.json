@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 4.257713 MUR",
+    "link": "http://www.floatrates.com/ttd/mur/",
+    "description": "1 Trinidad Tobago Dollar = 4.257713 Mauritian Rupee",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "MUR",
+    "targetName": "Mauritian Rupee",
+    "exchangeRate": "4.257713",
+    "inverseRate": "0.234868",
+    "inverseDescription": "1 Mauritian Rupee = 0.234868 Trinidad Tobago Dollar"
+}

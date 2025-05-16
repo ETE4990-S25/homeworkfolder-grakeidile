@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.060124 OMR",
+    "link": "http://www.floatrates.com/ttd/omr/",
+    "description": "1 Trinidad Tobago Dollar = 0.060124 Omani Rial",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "OMR",
+    "targetName": "Omani Rial",
+    "exchangeRate": "0.060124",
+    "inverseRate": "16.632250",
+    "inverseDescription": "1 Omani Rial = 16.632250 Trinidad Tobago Dollar"
+}

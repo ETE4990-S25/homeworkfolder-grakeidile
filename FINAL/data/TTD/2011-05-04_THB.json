@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 4.694832 THB",
+    "link": "http://www.floatrates.com/ttd/thb/",
+    "description": "1 Trinidad Tobago Dollar = 4.694832 Thai Baht",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "THB",
+    "targetName": "Thai Baht",
+    "exchangeRate": "4.694832",
+    "inverseRate": "0.213000",
+    "inverseDescription": "1 Thai Baht = 0.213000 Trinidad Tobago Dollar"
+}

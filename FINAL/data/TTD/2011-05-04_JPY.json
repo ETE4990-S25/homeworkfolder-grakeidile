@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 12.673912 JPY",
+    "link": "http://www.floatrates.com/ttd/jpy/",
+    "description": "1 Trinidad Tobago Dollar = 12.673912 Japanese Yen",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "JPY",
+    "targetName": "Japanese Yen",
+    "exchangeRate": "12.673912",
+    "inverseRate": "0.078902",
+    "inverseDescription": "1 Japanese Yen = 0.078902 Trinidad Tobago Dollar"
+}

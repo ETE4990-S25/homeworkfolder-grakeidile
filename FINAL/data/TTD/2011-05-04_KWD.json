@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.042908 KWD",
+    "link": "http://www.floatrates.com/ttd/kwd/",
+    "description": "1 Trinidad Tobago Dollar = 0.042908 Kuwaiti Dinar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "KWD",
+    "targetName": "Kuwaiti Dinar",
+    "exchangeRate": "0.042908",
+    "inverseRate": "23.305758",
+    "inverseDescription": "1 Kuwaiti Dinar = 23.305758 Trinidad Tobago Dollar"
+}

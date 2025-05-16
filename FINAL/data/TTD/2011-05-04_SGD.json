@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.192216 SGD",
+    "link": "http://www.floatrates.com/ttd/sgd/",
+    "description": "1 Trinidad Tobago Dollar = 0.192216 Singapore Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "SGD",
+    "targetName": "Singapore Dollar",
+    "exchangeRate": "0.192216",
+    "inverseRate": "5.202481",
+    "inverseDescription": "1 Singapore Dollar = 5.202481 Trinidad Tobago Dollar"
+}

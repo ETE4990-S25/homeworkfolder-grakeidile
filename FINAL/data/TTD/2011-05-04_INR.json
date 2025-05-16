@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 6.966262 INR",
+    "link": "http://www.floatrates.com/ttd/inr/",
+    "description": "1 Trinidad Tobago Dollar = 6.966262 Indian Rupee",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "INR",
+    "targetName": "Indian Rupee",
+    "exchangeRate": "6.966262",
+    "inverseRate": "0.143549",
+    "inverseDescription": "1 Indian Rupee = 0.143549 Trinidad Tobago Dollar"
+}

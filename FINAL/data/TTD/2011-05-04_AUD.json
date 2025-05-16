@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.144344 AUD",
+    "link": "http://www.floatrates.com/ttd/aud/",
+    "description": "1 Trinidad Tobago Dollar = 0.144344 Australian Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "AUD",
+    "targetName": "Australian Dollar",
+    "exchangeRate": "0.144344",
+    "inverseRate": "6.927897",
+    "inverseDescription": "1 Australian Dollar = 6.927897 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 2.543474 CZK",
+    "link": "http://www.floatrates.com/ttd/czk/",
+    "description": "1 Trinidad Tobago Dollar = 2.543474 Czech Koruna",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "CZK",
+    "targetName": "Czech Koruna",
+    "exchangeRate": "2.543474",
+    "inverseRate": "0.393163",
+    "inverseDescription": "1 Czech Koruna = 0.393163 Trinidad Tobago Dollar"
+}

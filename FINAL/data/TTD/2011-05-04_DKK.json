@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.783507 DKK",
+    "link": "http://www.floatrates.com/ttd/dkk/",
+    "description": "1 Trinidad Tobago Dollar = 0.783507 Danish Krone",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "DKK",
+    "targetName": "Danish Krone",
+    "exchangeRate": "0.783507",
+    "inverseRate": "1.276313",
+    "inverseDescription": "1 Danish Krone = 1.276313 Trinidad Tobago Dollar"
+}

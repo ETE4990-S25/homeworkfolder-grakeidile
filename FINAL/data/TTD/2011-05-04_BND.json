@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.192366 BND",
+    "link": "http://www.floatrates.com/ttd/bnd/",
+    "description": "1 Trinidad Tobago Dollar = 0.192366 Brunei Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "BND",
+    "targetName": "Brunei Dollar",
+    "exchangeRate": "0.192366",
+    "inverseRate": "5.198423",
+    "inverseDescription": "1 Brunei Dollar = 5.198423 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 1.035779 ZAR",
+    "link": "http://www.floatrates.com/ttd/zar/",
+    "description": "1 Trinidad Tobago Dollar = 1.035779 South African Rand",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "ZAR",
+    "targetName": "South African Rand",
+    "exchangeRate": "1.035779",
+    "inverseRate": "0.965457",
+    "inverseDescription": "1 South African Rand = 0.965457 Trinidad Tobago Dollar"
+}

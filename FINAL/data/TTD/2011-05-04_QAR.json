@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.569186 QAR",
+    "link": "http://www.floatrates.com/ttd/qar/",
+    "description": "1 Trinidad Tobago Dollar = 0.569186 Qatari Rial",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "QAR",
+    "targetName": "Qatari Rial",
+    "exchangeRate": "0.569186",
+    "inverseRate": "1.756896",
+    "inverseDescription": "1 Qatari Rial = 1.756896 Trinidad Tobago Dollar"
+}

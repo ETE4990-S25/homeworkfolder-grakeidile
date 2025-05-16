@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.996620 BWP",
+    "link": "http://www.floatrates.com/ttd/bwp/",
+    "description": "1 Trinidad Tobago Dollar = 0.996620 Botswana Pula",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "BWP",
+    "targetName": "Botswana Pula",
+    "exchangeRate": "0.996620",
+    "inverseRate": "1.003391",
+    "inverseDescription": "1 Botswana Pula = 1.003391 Trinidad Tobago Dollar"
+}

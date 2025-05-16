@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.827026 NOK",
+    "link": "http://www.floatrates.com/ttd/nok/",
+    "description": "1 Trinidad Tobago Dollar = 0.827026 Norwegian Krone",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "NOK",
+    "targetName": "Norwegian Krone",
+    "exchangeRate": "0.827026",
+    "inverseRate": "1.209152",
+    "inverseDescription": "1 Norwegian Krone = 1.209152 Trinidad Tobago Dollar"
+}

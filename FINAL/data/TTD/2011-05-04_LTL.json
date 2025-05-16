@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.362796 LTL",
+    "link": "http://www.floatrates.com/ttd/ltl/",
+    "description": "1 Trinidad Tobago Dollar = 0.362796 Lithuanian Litas",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "LTL",
+    "targetName": "Lithuanian Litas",
+    "exchangeRate": "0.362796",
+    "inverseRate": "2.756368",
+    "inverseDescription": "1 Lithuanian Litas = 2.756368 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.586386 SAR",
+    "link": "http://www.floatrates.com/ttd/sar/",
+    "description": "1 Trinidad Tobago Dollar = 0.586386 Saudi Riyal",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "SAR",
+    "targetName": "Saudi Riyal",
+    "exchangeRate": "0.586386",
+    "inverseRate": "1.705360",
+    "inverseDescription": "1 Saudi Riyal = 1.705360 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 1.214886 HKD",
+    "link": "http://www.floatrates.com/ttd/hkd/",
+    "description": "1 Trinidad Tobago Dollar = 1.214886 Hong Kong Dollar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "HKD",
+    "targetName": "Hong Kong Dollar",
+    "exchangeRate": "1.214886",
+    "inverseRate": "0.823122",
+    "inverseDescription": "1 Hong Kong Dollar = 0.823122 Trinidad Tobago Dollar"
+}

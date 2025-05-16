@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.431850 RON",
+    "link": "http://www.floatrates.com/ttd/ron/",
+    "description": "1 Trinidad Tobago Dollar = 0.431850 Romanian New Leu",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "RON",
+    "targetName": "Romanian New Leu",
+    "exchangeRate": "0.431850",
+    "inverseRate": "2.315617",
+    "inverseDescription": "1 Romanian New Leu = 2.315617 Trinidad Tobago Dollar"
+}

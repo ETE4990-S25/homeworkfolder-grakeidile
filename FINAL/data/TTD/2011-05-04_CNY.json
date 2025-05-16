@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 1.016199 CNY",
+    "link": "http://www.floatrates.com/ttd/cny/",
+    "description": "1 Trinidad Tobago Dollar = 1.016199 Chinese Yuan",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "CNY",
+    "targetName": "Chinese Yuan",
+    "exchangeRate": "1.016199",
+    "inverseRate": "0.984059",
+    "inverseDescription": "1 Chinese Yuan = 0.984059 Trinidad Tobago Dollar"
+}

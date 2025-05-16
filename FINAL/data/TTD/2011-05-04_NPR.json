@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 11.124142 NPR",
+    "link": "http://www.floatrates.com/ttd/npr/",
+    "description": "1 Trinidad Tobago Dollar = 11.124142 Nepalese Rupee",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "NPR",
+    "targetName": "Nepalese Rupee",
+    "exchangeRate": "11.124142",
+    "inverseRate": "0.089895",
+    "inverseDescription": "1 Nepalese Rupee = 0.089895 Trinidad Tobago Dollar"
+}

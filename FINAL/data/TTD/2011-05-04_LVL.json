@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.074549 LVL",
+    "link": "http://www.floatrates.com/ttd/lvl/",
+    "description": "1 Trinidad Tobago Dollar = 0.074549 Latvian Lats",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "LVL",
+    "targetName": "Latvian Lats",
+    "exchangeRate": "0.074549",
+    "inverseRate": "13.413936",
+    "inverseDescription": "1 Latvian Lats = 13.413936 Trinidad Tobago Dollar"
+}

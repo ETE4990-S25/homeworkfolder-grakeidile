@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.205502 BGN",
+    "link": "http://www.floatrates.com/ttd/bgn/",
+    "description": "1 Trinidad Tobago Dollar = 0.205502 Bulgarian Lev",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "BGN",
+    "targetName": "Bulgarian Lev",
+    "exchangeRate": "0.205502",
+    "inverseRate": "4.866136",
+    "inverseDescription": "1 Bulgarian Lev = 4.866136 Trinidad Tobago Dollar"
+}

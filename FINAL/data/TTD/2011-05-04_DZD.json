@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 11.148066 DZD",
+    "link": "http://www.floatrates.com/ttd/dzd/",
+    "description": "1 Trinidad Tobago Dollar = 11.148066 Algerian Dinar",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "DZD",
+    "targetName": "Algerian Dinar",
+    "exchangeRate": "11.148066",
+    "inverseRate": "0.089702",
+    "inverseDescription": "1 Algerian Dinar = 0.089702 Trinidad Tobago Dollar"
+}

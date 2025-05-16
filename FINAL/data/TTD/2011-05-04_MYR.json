@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.465826 MYR",
+    "link": "http://www.floatrates.com/ttd/myr/",
+    "description": "1 Trinidad Tobago Dollar = 0.465826 Malaysian Ringgit",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "MYR",
+    "targetName": "Malaysian Ringgit",
+    "exchangeRate": "0.465826",
+    "inverseRate": "2.146722",
+    "inverseDescription": "1 Malaysian Ringgit = 2.146722 Trinidad Tobago Dollar"
+}

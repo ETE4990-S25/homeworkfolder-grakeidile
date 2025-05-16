@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.094652 GBP",
+    "link": "http://www.floatrates.com/ttd/gbp/",
+    "description": "1 Trinidad Tobago Dollar = 0.094652 U.K. Pound Sterling",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "GBP",
+    "targetName": "U.K. Pound Sterling",
+    "exchangeRate": "0.094652",
+    "inverseRate": "10.564997",
+    "inverseDescription": "1 U.K. Pound Sterling = 10.564997 Trinidad Tobago Dollar"
+}

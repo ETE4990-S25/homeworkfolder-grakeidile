@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 276.313115 COP",
+    "link": "http://www.floatrates.com/ttd/cop/",
+    "description": "1 Trinidad Tobago Dollar = 276.313115 Colombian Peso",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "COP",
+    "targetName": "Colombian Peso",
+    "exchangeRate": "276.313115",
+    "inverseRate": "0.003619",
+    "inverseDescription": "1 Colombian Peso = 0.003619 Trinidad Tobago Dollar"
+}

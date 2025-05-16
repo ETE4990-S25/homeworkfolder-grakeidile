@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 72.410127 CLP",
+    "link": "http://www.floatrates.com/ttd/clp/",
+    "description": "1 Trinidad Tobago Dollar = 72.410127 Chilean Peso",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "CLP",
+    "targetName": "Chilean Peso",
+    "exchangeRate": "72.410127",
+    "inverseRate": "0.013810",
+    "inverseDescription": "1 Chilean Peso = 0.013810 Trinidad Tobago Dollar"
+}

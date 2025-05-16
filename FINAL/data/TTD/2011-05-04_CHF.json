@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 0.134824 CHF",
+    "link": "http://www.floatrates.com/ttd/chf/",
+    "description": "1 Trinidad Tobago Dollar = 0.134824 Swiss Franc",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "CHF",
+    "targetName": "Swiss Franc",
+    "exchangeRate": "0.134824",
+    "inverseRate": "7.417055",
+    "inverseDescription": "1 Swiss Franc = 7.417055 Trinidad Tobago Dollar"
+}

@@ -1,0 +1,13 @@
+{
+    "title": "1 TTD = 27.885539 HUF",
+    "link": "http://www.floatrates.com/ttd/huf/",
+    "description": "1 Trinidad Tobago Dollar = 27.885539 Hungarian Forint",
+    "pubDate": null,
+    "baseCurrency": "TTD",
+    "baseName": "Trinidad Tobago Dollar",
+    "targetCurrency": "HUF",
+    "targetName": "Hungarian Forint",
+    "exchangeRate": "27.885539",
+    "inverseRate": "0.035861",
+    "inverseDescription": "1 Hungarian Forint = 0.035861 Trinidad Tobago Dollar"
+}
